@@ -1,0 +1,24 @@
+{
+  "name": "andelaMeals",
+  "version": "0.0.0",
+  "description": "An app used by fellows to order meals",
+  "keywords": [
+    "andela",
+    "meals",
+    "andela-meals"
+  ],
+  "authors": [
+    "Ladi Adenusi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularfire": "~0.9.1"
+  }
+}
